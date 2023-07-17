@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Sadeem-Asim
-- 👀 I’m interested in Latest Technologies
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on Creative Projects
-- 📫 How to reach me https://www.linkedin.com/in/sadeem-asim-3b5785242/
+# My Profile
 
-<!---
-Sadeem-Asim/Sadeem-Asim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Introduction
+Hello, I'm a software developer specializing in React and Node.js. I have extensive experience working with decentralized applications (dApps), smart contracts, and crypto exchanges. Additionally, I have proficiency in Flutter and React Native.
+
+## Skills
+- React
+- Node.js
+- dApps
+- Smart Contracts
+- Crypto Exchanges
+- Flutter
+- React Native
+
+## Contact Information
+- Email: sadeemasim12345@outlook.com
+- Linkedn: https://www.linkedin.com/in/sadeem-asim-3b5785242/
